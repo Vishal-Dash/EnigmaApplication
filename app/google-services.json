@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748483481161",
+    "firebase_url": "https://enigmaapplication-2df04.firebaseio.com",
+    "project_id": "enigmaapplication-2df04",
+    "storage_bucket": "enigmaapplication-2df04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748483481161:android:a474f80aeb643a55",
+        "android_client_info": {
+          "package_name": "appstore.com.enigmaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748483481161-8lpn8k552af8n6p656jd49cimkmk89bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appstore.com.enigmaapplication",
+            "certificate_hash": "ec8f4609b4867150e61703891f7b7a6ddf3eb2cc"
+          }
+        },
+        {
+          "client_id": "748483481161-tf6qob79ukn1tn6tgqdhpuctu9nks2sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQu1MjQubgIOK8tTbaeDGfO22spSrByo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748483481161-tf6qob79ukn1tn6tgqdhpuctu9nks2sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
